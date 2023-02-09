@@ -1,4 +1,4 @@
-package br.com.projetofaculdade.financeiro;
+package com.api.financeiro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
