@@ -110,6 +110,5 @@
 │   │                   └── UtilDate.class
 │   └── generated-sources
 │       └── annotations
-├── tree.tx
-└── tree.txt
+
 ```
