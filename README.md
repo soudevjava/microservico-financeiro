@@ -19,8 +19,8 @@
 > * Windows: `:C\Maven`
 > * Linux:  `/opt/Maven`
 
+### Comandos básico do git
 
-> * **Comandos básico do git:**
 > * `git clone <https-repo>`
 > * `cd microservico-financeiro`
 > * `git checkout desenvolvimento` mudar de branch
